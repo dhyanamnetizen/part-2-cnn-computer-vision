@@ -1,0 +1,11 @@
+Actual_Class,Predicted_Class,Match_Status
+Dent,Dent,True
+Dent,Dent,True
+Dent,Dent,True
+Dent,Dent,True
+Normal,Normal,True
+Dent,Dent,True
+Stain,Stain,True
+Scratch,Scratch,True
+Scratch,Scratch,True
+Dent,Dent,True
